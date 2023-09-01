@@ -21,9 +21,9 @@ const removeNav = () => {
       <div className="header">
         <div className="logoDiv">
           <a href="#" className="logo"></a>
-          <h1 className="flex">
-            <ImLeaf className="icon" />
-            AgarRiskPro
+          <h1 className="flex" style={{ color: "white" }}>
+            <ImLeaf className="icon" style={{ color: "white" }} />
+            AgarRiskPro®
           </h1>
         </div>
         <div className={activate}>
